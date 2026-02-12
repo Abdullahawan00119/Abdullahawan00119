@@ -4,10 +4,6 @@
 
 <h1 align="center">Hi , I'm Abdullah</h1>
 
-<h3 align="center">
-MERN Stack Developer | Full Stack JavaScript Engineer | React & Next.js Specialist
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Engineer;React+%7C+Next.js+%7C+Node.js;Building+Advanced+Scalable+Projects" />
 </p>
