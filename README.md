@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Abdullah%20Awan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=60&descAlign=50"/>
+</p>
+
 <h1 align="center">Hi , I'm Abdullah</h1>
 
 <h3 align="center">
