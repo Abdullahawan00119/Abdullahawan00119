@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/demo/image/upload/c_scale,w_1200/v1670000000/tech_banner.png" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Abdullah%20Awan&fontSize=45&desc=Full%20Stack%20MERN%20Developer&animation=twinkling"/>
 </p>
 
 
