@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Abdullah%20Awan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=60&descAlign=50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00FFDD&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Abdullah+Awan;MERN+Stack+Developer;Full+Stack+JavaScript+Engineer;React+%7C+Next.js+%7C+Node.js;Building+Advanced+Projects" />
 </p>
 
 <h1 align="center">Hi , I'm Abdullah</h1>
