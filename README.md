@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00FFDD&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Abdullah+Awan;MERN+Stack+Developer;Full+Stack+JavaScript+Engineer;React+%7C+Next.js+%7C+Node.js;Building+Advanced+Projects" />
+  <img src="https://res.cloudinary.com/demo/image/upload/c_scale,w_1200/v1670000000/tech_banner.png" />
 </p>
+
 
 <h1 align="center">Hi , I'm Abdullah</h1>
 
